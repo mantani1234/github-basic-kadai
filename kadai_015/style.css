@@ -3,11 +3,16 @@ body{
   text-align: centor;
 }
 
-h1{
+html{
     font-size: 20px;
-    letter-spacing: 25px;
-    border-bottom: 2px soild gray;
+}
+
+h1{
+    letter-spacing: 1.2em;
+    border-bottom: 3px solid rgb(115,115,114);
     text-shadow: 3px 3px 5px gray;
+  font-family: 'Josefin Sans',sans-serif;
+  font-size: 2rem;
 }
 
 .bule{
